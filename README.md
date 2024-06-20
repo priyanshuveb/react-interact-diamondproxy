@@ -1,5 +1,8 @@
 ## Setup Project 
 ```bash
+git clone https://github.com/priyanshuveb/react-interact-diamondproxy.git
+```
+```bash
 npm install
 ```
 ```bash
